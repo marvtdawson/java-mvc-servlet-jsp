@@ -23,11 +23,12 @@ Udemy course titled JSP Servlet and JBDC by Chad Darby.
 ######  The Java Journey Series includes the following JAVA applications on GIT:
 * <a href="https://github.com/marvtdawson/emailAdminApp">Java Email Admin Application</a>
 * Java New Bank Account
-* Java Student Database Application
+* <a href="https://github.com/marvtdawson/java-student-database-app">Java Student Database Application</a>
 * Spring MVC ToDo List
 * Spring MVC & Hibernate - Build A Complete Database Web App
 * <a href="https://github.com/marvtdawson/timbu-java-springboot-GuessTheNumberGame">Spring 5 Guess The Number Game </a>
 * <a href="https://github.com/marvtdawson/angular-springboot-todo">Spring Boot 5 & Angular 6 - ToDo Application</a>
+* <a href="https://github.com/marvtdawson/react-springboot-todo">Spring Boot 5 & ReactJS 16 - ToDo Application</a>
 * Spring Boot 5 - Java Web Service with RESTful API
 * <a href="https://github.com/marvtdawson/java-mvc-servlet-jsp">MVC Application using JSP & Servlets</a>
 * MultiLingual Application using JSP & Servlets
